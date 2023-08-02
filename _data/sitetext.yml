@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "We design and implement reliable software and automation solutions tailored to your business needs. From server setup and configuration to virtualization and data management, we ensure optimal performance and scalability."
         image: assets/img/services/03-service.jpg
 
-  projects:
+  portfolio:
     title: "Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: projects
+    section: portfolio
     closebutton: "Close"
 
   about:
