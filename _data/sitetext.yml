@@ -27,14 +27,14 @@ en: &DEFAULT_EN
       - title: "Network Infrastructure"
         desc: "We offer comprehensive network setup services, including server and serverless infrastructure deployment, network security, and optimization. Trust us to create a stable and secure network environment for your business."
         image: assets/img/services/02-service.jpg
-      - title: "Software Implementation"
+      - title: "Software Development"
         desc: "We design and implement reliable software and automation solutions tailored to your business needs. From server setup and configuration to virtualization and data management, we ensure optimal performance and scalability."
         image: assets/img/services/03-service.jpg
 
   portfolio:
-    title: "Featured"
+    title: "Projects"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: featured
+    section: projects
     closebutton: "Close"
 
   about:
