@@ -2,7 +2,7 @@
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
-# locale: "en-US"  [YOUR PREFERRED LOCALE]
+# locale: "en-US" [YOUR PREFERRED LOCALE]
 #
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Your Steadfast IT Partner.
+    text: Arctic Tech
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "IT Services"
+        desc: "Our comprehensive IT services ensure your business operations run smoothly with reliable infrastructure, responsive support, and proactive maintenance."
         image: assets/img/services/01-service.jpg
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Network Infrastructure"
+        desc: "We offer comprehensive network setup services, including server and serverless infrastructure deployment, network security, and optimization. Trust us to create a stable and secure network environment for your business."
         image: assets/img/services/02-service.jpg
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Software Implementation"
+        desc: "We design and implement reliable software and automation solutions tailored to your business needs. From server setup and configuration to virtualization and data management, we ensure optimal performance and scalability."
         image: assets/img/services/03-service.jpg
 
   portfolio:
