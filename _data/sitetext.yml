@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "We offer comprehensive network setup services, including server and serverless infrastructure deployment, network security, and optimization. Trust us to create a stable and secure network environment for your business."
         image: assets/img/services/02-service.jpg
       - title: "Software Development"
-        desc: "We design and implement reliable software and automation solutions tailored to your business needs. From server setup and configuration to virtualization and data management, we ensure optimal performance and scalability."
+        desc: "We see our clients as partners with complex business needs and objectives. We listen first, and then design and implement reliable software and automation solutions tailored to your business needs. This includes, server setup and configuration and all kinds of data management."
         image: assets/img/services/03-service.jpg
 
   portfolio:
