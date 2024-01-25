@@ -11,7 +11,7 @@ e #
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Specialty Cloud and AWS Solutions partner
+    title: "Specialty Cloud and AWS Solutions partner"
     text: Arctic Tech
     button: Schedule Demo
     buttonlink: "#services"
