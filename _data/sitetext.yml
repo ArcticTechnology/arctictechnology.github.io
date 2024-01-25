@@ -1,4 +1,4 @@
-#
+e #
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Your Steadfast IT Partner.
+    title: Specialty Cloud and AWS Solutions partner
     text: Arctic Tech
-    button: Tell Me More
+    button: Schedule Demo
     buttonlink: "#services"
 
   services:
