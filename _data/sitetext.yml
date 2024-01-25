@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: ""
+    text: "Arctic Technology"
     body: "Arctic Technology is a specialized cloud solutions as a service consulting firm. We conslult with organizations to meet their information technology and business goals. We specialize in Amazon Web Services (AWS), network infrastructure, and cloud computing. Builing out solutions with AWS is our core competency. Our clients include from small tech startups and US Government agencies contractors. We look forward to learning about your organization's challenges."
     section: about
 
