@@ -1,4 +1,4 @@
-e #
+#
 # Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 #
 # Configuration: Add to _config.yml
@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: "Specialty Cloud and AWS Solutions partner"
     text: Arctic Tech
-    button: Schedule Demo
+    button: Tell Me More
     buttonlink: "#services"
 
   services:
