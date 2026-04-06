@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "Specialty Cloud and AWS Solutions partner"
+    title: "Built for the Toughest Workloads"
     text: Arctic Tech
     button: Tell Me More
     buttonlink: "#services"
@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "IT Services"
-        desc: "Our comprehensive IT services ensure your business operations run smoothly with reliable infrastructure, responsive support, and proactive maintenance."
+        desc: "We deliver end-to-end IT services that keep your systems reliable, secure, and operating at peak performance. From infrastructure management to proactive support, we ensure your technology scales with your business."
         image: assets/img/services/01-service.jpg
       - title: "Network Infrastructure"
-        desc: "We offer comprehensive network setup services, including server and serverless infrastructure deployment, network security, and optimization. Trust us to create a stable and secure network environment for your business."
+        desc: "We design and implement resilient, secure network infrastructure, from cloud and serverless environments to on-prem systems. Our approach prioritizes performance, security, and scalability to support mission-critical operations."
         image: assets/img/services/02-service.jpg
       - title: "Software Development"
-        desc: "We see our clients as partners with complex business needs and objectives. We listen first, and then design and implement reliable software and automation solutions tailored to your business needs. This includes, server setup and configuration and all kinds of data management."
+        desc: "We integrate and automate complex systems to create seamless, efficient workflows across your organization. By connecting platforms, data, and processes, we help you reduce friction, improve visibility, and operate more effectively."
         image: assets/img/services/03-service.jpg
 
   portfolio:
@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Arctic Technology"
-    body: "Arctic Technology is a specialized cloud solutions as a service consulting firm. We conslult with organizations to meet their information technology and business goals. We specialize in Amazon Web Services (AWS), network infrastructure, and cloud computing. Builing out solutions with AWS is our core competency. Our clients include from small tech startups and US Government agencies contractors. We look forward to learning about your organization's challenges."
+    body: "Arctic Technology is a technology services firm that helps organizations design, build, and operate modern digital infrastructure. The company specializes in systems integration and devops enabling seamless connectivity between platforms while streamlining software delivery and deployment. Arctic Technology helps organizations improve scalability, accelerate development cycles, and maintain high-performing, highly-secure, mission critical systems."
     section: about
 
   contact:
