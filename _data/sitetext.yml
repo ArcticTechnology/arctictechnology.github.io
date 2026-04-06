@@ -62,7 +62,7 @@ en: &DEFAULT_EN
     privacy: "Privacy Policy"
     terms: "Terms & Conditions"
     social:
-      - url: https://github.com/ArcticTechnology
+      - url: https://github.com/ArcticTech
         icon: "fab fa-github"
       - url: https://pypi.org/user/mystic.technology/
         icon: "fas fa-cubes"
