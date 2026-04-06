@@ -6,15 +6,15 @@ title: Privacy Policy
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-Effective Date: January 1, 2026
+*Effective Date: January 1, {{ 'now' | date: "%Y" }}*
 
-1. Introduction
+**Introduction**
 
-{{ site.title }} (the "Site", "Company," "we," "our," or "us") respects your privacy and is committed to protecting it through this Privacy Policy.
+{{ site.company }} ("Company," "we," "our," or "us") respects your privacy and is committed to protecting it through this Privacy Policy.
 
 This Privacy Policy describes how we handle information when you visit our website (the “Site”).
 
-2. Information We Do Not Collect
+**Information We Do Not Collect**
 
 We do not collect personal information from users of our Site.
 
@@ -24,7 +24,7 @@ Specifically, we do not collect:
 * Payment or financial information
 * Any user-submitted content or personal identifiers
 
-3. Automatically Collected Information
+**Automatically Collected Information**
 
 {% if site.analytics.google %}
 
@@ -50,32 +50,33 @@ Our Site operates without tracking or profiling visitors.
 
 {% endif %}
 
-4. Third-Party Services
+**Third-Party Services**
 
 We do not use third-party analytics tools, advertising networks, or tracking services.
 
 If this changes in the future, this Privacy Policy will be updated accordingly.
 
-5. Data Sharing
+**Data Sharing**
 
 Because we do not collect any personal data, we do not share, sell, rent, or disclose user information to third parties.
 
-6. Data Security
+**Data Security**
 
 Even though we do not collect personal data, we take reasonable measures to ensure the security and integrity of our Site.
 
-7. Children’s Privacy
+**Children’s Privacy**
 
 Our Site is not directed toward individuals under the age of 13. We do not knowingly collect any information from children.
 
-8. Changes to This Privacy Policy
+**Changes to This Privacy Policy**
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
-9. Contact Information
+**Contact Information**
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
-Arctic Technology, USA
-Email: hello@arctictech.io
+{{ site.company }}
+{{ site.address }}
+{{ site.email }}
 

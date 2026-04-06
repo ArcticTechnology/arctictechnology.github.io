@@ -5,7 +5,7 @@
     <div class="row align-items-center">
       <div class="col-md-4">
         <span class="copyright"
-          >&copy; {{ 'now' | date: "%Y" }} {{ site.copyright_name | default: site.title }}</span
+          >&copy; {{ 'now' | date: "%Y" }} {{ site.copyright }}</span
         >
       </div>
       <!-- Social Media -->
@@ -22,13 +22,19 @@
           {% endfor %}
         </ul>
       </div>
-      <!-- Privacy -->
+      <!-- Legal -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
             <a href="privacy"
               >{{ site.data.sitetext[site.locale].footer.privacy | default:
               "Privacy Policy" }}</a
+            >
+          </li>
+          <li class="list-inline-item">
+            <a href="terms"
+              >{{ site.data.sitetext[site.locale].footer.terms | default:
+              "Terms & Conditions" }}</a
             >
           </li>
         </ul>
@@ -62,6 +68,12 @@
             <a href="privacy"
               >{{ site.data.sitetext.footer.privacy | default:
               "Privacy Policy" }}</a
+            >
+          </li>
+          <li class="list-inline-item">
+            <a href="terms"
+              >{{ site.data.sitetext[site.locale].footer.terms | default:
+              "Terms & Conditions" }}</a
             >
           </li>
         </ul>

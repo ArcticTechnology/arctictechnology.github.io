@@ -60,6 +60,7 @@ en: &DEFAULT_EN
 
   footer:
     privacy: "Privacy Policy"
+    terms: "Terms & Conditions"
     social:
       - url: https://github.com/ArcticTechnology
         icon: "fab fa-github"
