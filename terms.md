@@ -76,5 +76,5 @@ These Terms are governed by and construed in accordance with the laws of {{ site
 
 If you have any questions about these Terms & Conditions, you may contact us at:
 
-Company: {{ site.company }}, {{ site.address }} 
-Email: {{ site.email }}
+* Company: {{ site.company }}, {{ site.address }} 
+* Email: {{ site.email }}
