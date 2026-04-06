@@ -22,12 +22,12 @@
           {% endfor %}
         </ul>
       </div>
-      <!-- Legal -->
+      <!-- Privacy -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext[site.locale].footer.legal | default:
+            <a href="privacy"
+              >{{ site.data.sitetext[site.locale].footer.privacy | default:
               "Privacy Policy" }}</a
             >
           </li>
@@ -38,7 +38,7 @@
     <div class="row align-items-center">
       <div class="col-md-4">
         <span class="copyright"
-          >Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span
+          >&copy; {{ 'now' | date: "%Y" }} {{ site.copyright_name | default: site.title }}</span
         >
       </div>
       <!-- Social Media -->
@@ -55,12 +55,12 @@
           {% endfor %}
         </ul>
       </div>
-      <!-- Legal -->
+      <!-- Privacy -->
       <div class="col-md-4">
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext.footer.legal | default:
+            <a href="privacy"
+              >{{ site.data.sitetext.footer.privacy | default:
               "Privacy Policy" }}</a
             >
           </li>
