@@ -59,13 +59,13 @@ en: &DEFAULT_EN
     submit: "Send Message"
 
   footer:
-    legal: "Privacy Policy"
+    privacy: "Privacy Policy"
     social:
       - url: https://github.com/ArcticTechnology
         icon: "fab fa-github"
       - url: https://pypi.org/user/mystic.technology/
         icon: "fas fa-cubes"
-      - url: mailto:partner@arctictech.io
+      - url: mailto:hello@arctictech.io
         icon: "fas fa-envelope"
       - url: https://blog.arctic.technology/
         icon: "fas fa-rss"
