@@ -2,11 +2,23 @@
 layout: page
 title: Terms & Conditions
 ---
-<div style="text-align: center;">
+
+<style>
+.privacy-center {
+  text-align: center;
+}
+.privacy-center ul,
+.privacy-center ol {
+  list-style-position: inside;
+  padding-left: 0;
+}
+</style>
+
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">Terms & Conditions</h2>
 </div>
 
+<div class="privacy-center">
 *Effective Date: January 1, {{ 'now' | date: "%Y" }}*
 
 **Introduction**
