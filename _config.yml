@@ -18,9 +18,10 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Arctic.Technology
-email      : arctic.technology.mail@gmail.com #this is also the email contact forms will go to
+email      : partner@arctictech.io #this is also the email contact forms will go to
 description: "Welcome to Arctic Technology"
 author     : Arctic Technology
+copyright_name: Arctic Technology
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px

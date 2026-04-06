@@ -65,7 +65,7 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://pypi.org/user/mystic.technology/
         icon: "fas fa-cubes"
-      - url: mailto:arctic.technology.mail@gmail.com
+      - url: mailto:partner@arctictech.io
         icon: "fas fa-envelope"
       - url: https://blog.arctic.technology/
         icon: "fas fa-rss"
