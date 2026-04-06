@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 ---
-<div style="text-align: center;">
+
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
@@ -78,4 +78,3 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have any questions about this Privacy Policy, please reach out to us.
 
 {{ site.company }} | {{ site.address }} | {{ site.email }}
-</div>

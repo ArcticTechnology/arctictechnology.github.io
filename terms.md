@@ -3,22 +3,10 @@ layout: page
 title: Terms & Conditions
 ---
 
-<style>
-.privacy-center {
-  text-align: center;
-}
-.privacy-center ul,
-.privacy-center ol {
-  list-style-position: inside;
-  padding-left: 0;
-}
-</style>
-
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Terms & Conditions</h2>
 </div>
 
-<div class="privacy-center">
 *Effective Date: January 1, {{ 'now' | date: "%Y" }}*
 
 **Introduction**
@@ -89,4 +77,3 @@ These Terms are governed by and construed in accordance with the laws of {{ site
 If you have any questions about these Terms & Conditions, you may contact us at:
 
 {{ site.company }} | {{ site.address }} | {{ site.email }}
-</div>
