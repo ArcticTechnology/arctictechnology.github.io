@@ -13,7 +13,7 @@ title: Privacy Policy
 
 {{ site.company }} ("Company," "we," "our," or "us") respects your privacy and is committed to protecting it through this Privacy Policy.
 
-This Privacy Policy describes how we handle information when you visit our website (the “Site”).
+This Privacy Policy describes how we handle information when you visit our website (the "Site").
 
 **Information We Do Not Collect**
 
@@ -77,4 +77,5 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions about this Privacy Policy, please reach out to us.
 
-{{ site.company }} | {{ site.address }} | {{ site.email }}
+Company: {{ site.company }}, {{ site.address }} 
+Email: {{ site.email }}

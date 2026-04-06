@@ -11,7 +11,7 @@ title: Terms & Conditions
 
 **Introduction**
 
-These Terms and Conditions (“Terms”) govern your use of the {{ site.company }} ("Company," "we," "our," or "us") website (“Site”). By accessing or using this Site, you agree to be bound by these Terms. If you do not agree, you should not use this Site.
+These Terms and Conditions ("Terms") govern your use of the {{ site.company }} ("Company," "we," "our," or "us") website ("Site"). By accessing or using this Site, you agree to be bound by these Terms. If you do not agree, you should not use this Site.
 
 **Use of the Website**
 
@@ -76,4 +76,5 @@ These Terms are governed by and construed in accordance with the laws of {{ site
 
 If you have any questions about these Terms & Conditions, you may contact us at:
 
-{{ site.company }} | {{ site.address }} | {{ site.email }}
+Company: {{ site.company }}, {{ site.address }} 
+Email: {{ site.email }}
