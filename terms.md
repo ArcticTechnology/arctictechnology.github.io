@@ -70,7 +70,7 @@ These Terms are governed by and construed in accordance with the laws of {{ site
 
 **Changes to These Terms**
 
-{{ site.company }} reserves the right to update or modify these Terms at any time. Changes will be effective upon posting to this page with an updated effective date.
+The Company reserves the right to update or modify these Terms at any time. Changes will be effective upon posting to this page with an updated effective date.
 
 **Contact Information**
 
