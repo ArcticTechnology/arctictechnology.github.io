@@ -22,7 +22,8 @@ email      : hello@arctictech.io #this is also the email contact forms will go t
 description: "Welcome to Arctic Technology"
 author     : Arctic Technology
 company    : Arctic Technology
-address    : USA
+address    : Nevada USA
+juristiction : the state of Nevada, United States
 copyright  : Arctic Technology, All Rights Reserved.
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
